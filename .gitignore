@@ -1,0 +1,6 @@
+*.pyx
+*.pyc
+*.log
+
+*.idea
+*.vscode
